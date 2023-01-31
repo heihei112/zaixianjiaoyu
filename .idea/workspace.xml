@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca6f35fd-53fc-45fc-ad27-61c4c1768079" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\m2" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Java/apache-maven-3.6.3/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.6.3\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2Bdu97aFTwaBwmfBu73D4nzXIHU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/infrastructure/api_gateway/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java_woke\guli_parent\common\common_util\src\main\java\com\atguigu\guli\common\base\utils" />
+      <recent name="D:\java_woke\guli_parent\service\service_ucenter\src\main\resources" />
+      <recent name="D:\java_woke\guli_parent\service\service_sms\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu.guli.service.ucenter" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.guli.service.trade" />
+      <recent name="com.atguigu.guli.service.base.result" />
+      <recent name="com.atguigu.guli.service.ucenter" />
+      <recent name="edu" />
+      <recent name="com.atguigu.guli.service.cms" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java_woke\guli_parent\infrastructure\api_gateway\src\main\resources" />
+      <recent name="D:\java_woke\guli_parent\service\service_trade\src\main\java\com\atguigu\guli\service\trade\utils" />
+      <recent name="D:\java_woke\guli_parent\service\service_trade\src\main\resources" />
+      <recent name="D:\java_woke\guli_parent\common\common_util\src\main\java\com\atguigu\guli\common\base\utils" />
+      <recent name="D:\java_woke\guli_parent\service\service_ucenter\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServiceTradeApplication">
+    <configuration name="GuliParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guli_parent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli_parent.GuliParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfrastructureApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api_gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.guli.infrastructure.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.infrastructure.apigateway.InfrastructureApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.guli.service.cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.cms.ServiceCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceEduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_edu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.edu.ServiceEduApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceOssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.oss.ServiceOssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.guli.service.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.sms.ServiceSmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTradeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_trade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.guli.service.trade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.trade.ServiceTradeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUcenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_ucenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.guli.service.cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.cms.ServiceUcenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceVodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_vod" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.vod.ServiceVodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.GuliParentApplication" />
+      <item itemvalue="Spring Boot.ServiceEduApplication" />
+      <item itemvalue="Spring Boot.ServiceOssApplication" />
+      <item itemvalue="Spring Boot.ServiceVodApplication" />
+      <item itemvalue="Spring Boot.ServiceSmsApplication" />
+      <item itemvalue="Spring Boot.InfrastructureApiGatewayApplication" />
+      <item itemvalue="Spring Boot.ServiceCmsApplication" />
+      <item itemvalue="Spring Boot.ServiceTradeApplication" />
+      <item itemvalue="Spring Boot.ServiceUcenterApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceTradeApplication" />
+        <item itemvalue="Spring Boot.ServiceUcenterApplication" />
+        <item itemvalue="Spring Boot.ServiceCmsApplication" />
+        <item itemvalue="Spring Boot.InfrastructureApiGatewayApplication" />
+        <item itemvalue="Spring Boot.ServiceSmsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca6f35fd-53fc-45fc-ad27-61c4c1768079" name="Default Changelist" comment="" />
+      <created>1657248128519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657248128519</updated>
+      <workItem from="1657248134699" duration="591000" />
+      <workItem from="1657248747635" duration="27000" />
+      <workItem from="1657248792357" duration="4662000" />
+      <workItem from="1657257746880" duration="191000" />
+      <workItem from="1657257959609" duration="19356000" />
+      <workItem from="1657327010866" duration="20503000" />
+      <workItem from="1657414420943" duration="12282000" />
+      <workItem from="1657508134635" duration="10875000" />
+      <workItem from="1657587495494" duration="8603000" />
+      <workItem from="1657635297163" duration="1929000" />
+      <workItem from="1657640352746" duration="1036000" />
+      <workItem from="1657672813999" duration="10898000" />
+      <workItem from="1657729038233" duration="117000" />
+      <workItem from="1657799684356" duration="1383000" />
+      <workItem from="1657856270406" duration="7715000" />
+      <workItem from="1657900443264" duration="1127000" />
+      <workItem from="1657967854156" duration="11169000" />
+      <workItem from="1658021618948" duration="13938000" />
+      <workItem from="1658107664136" duration="13208000" />
+      <workItem from="1658194000183" duration="5583000" />
+      <workItem from="1658499589792" duration="996000" />
+      <workItem from="1658530666774" duration="14726000" />
+      <workItem from="1658622922166" duration="14019000" />
+      <workItem from="1658711120038" duration="4327000" />
+      <workItem from="1658721997788" duration="2982000" />
+      <workItem from="1658725832041" duration="2821000" />
+      <workItem from="1658735266632" duration="3405000" />
+      <workItem from="1658754007572" duration="1706000" />
+      <workItem from="1658797922017" duration="3057000" />
+      <workItem from="1658829949365" duration="1087000" />
+      <workItem from="1658897387105" duration="113000" />
+      <workItem from="1659598605025" duration="6962000" />
+      <workItem from="1659665751139" duration="326000" />
+      <workItem from="1659666150423" duration="154000" />
+      <workItem from="1659666334111" duration="196000" />
+      <workItem from="1659666799851" duration="10000" />
+      <workItem from="1659667188424" duration="110000" />
+      <workItem from="1659667365091" duration="87000" />
+      <workItem from="1659667583932" duration="90000" />
+      <workItem from="1659667694304" duration="50000" />
+      <workItem from="1659667765678" duration="10000" />
+      <workItem from="1659667835452" duration="3000" />
+      <workItem from="1659667902202" duration="38000" />
+      <workItem from="1659667979726" duration="20914000" />
+      <workItem from="1659747698131" duration="1512000" />
+      <workItem from="1659749260263" duration="10298000" />
+      <workItem from="1659836861868" duration="17221000" />
+      <workItem from="1659920123712" duration="11303000" />
+      <workItem from="1659953958672" duration="187000" />
+      <workItem from="1660054003804" duration="1873000" />
+      <workItem from="1660091260726" duration="24000" />
+      <workItem from="1660093389836" duration="2408000" />
+      <workItem from="1660180460241" duration="49000" />
+      <workItem from="1660295529985" duration="1180000" />
+      <workItem from="1662032419151" duration="1358000" />
+      <workItem from="1662121939315" duration="1729000" />
+      <workItem from="1662168032362" duration="9796000" />
+      <workItem from="1662252621862" duration="5181000" />
+      <workItem from="1662279698011" duration="106000" />
+      <workItem from="1662354607044" duration="20000" />
+      <workItem from="1662443438994" duration="3821000" />
+      <workItem from="1662513501640" duration="16000" />
+      <workItem from="1663044341065" duration="842000" />
+      <workItem from="1663239647456" duration="25000" />
+      <workItem from="1664802432183" duration="1240000" />
+      <workItem from="1668250778097" duration="831000" />
+      <workItem from="1675151340078" duration="738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1675151352780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1675151352780" />
+    <state width="1188" height="204" key="GridCell.Tab.0.bottom" timestamp="1668251615608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1188" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1668251615608" />
+    <state width="1188" height="204" key="GridCell.Tab.0.center" timestamp="1668251615607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1188" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1668251615607" />
+    <state width="1188" height="204" key="GridCell.Tab.0.left" timestamp="1668251615607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1188" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1668251615607" />
+    <state width="1188" height="204" key="GridCell.Tab.0.right" timestamp="1668251615607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1188" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1668251615607" />
+    <state width="1188" height="204" key="GridCell.Tab.1.bottom" timestamp="1668251615608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1188" height="204" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1668251615608" />
+    <state width="1188" height="204" key="GridCell.Tab.1.center" timestamp="1668251615608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1188" height="204" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1668251615608" />
+    <state width="1188" height="204" key="GridCell.Tab.1.left" timestamp="1668251615608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1188" height="204" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1668251615608" />
+    <state width="1188" height="204" key="GridCell.Tab.1.right" timestamp="1668251615608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1188" height="204" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1668251615608" />
+  </component>
+</project>
