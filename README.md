@@ -5,3 +5,5 @@
 ### 后台模块 讲师管理
 ![image](https://user-images.githubusercontent.com/83861966/223716938-1478c5c5-e3da-41a9-be88-771c19ed768c.png)
 
+### 后台模块 添加讲师
+![image](https://user-images.githubusercontent.com/83861966/223717340-cfdcbd25-742c-4a49-a335-941b5efa7892.png)
